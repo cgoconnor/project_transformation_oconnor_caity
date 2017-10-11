@@ -8,6 +8,10 @@ html {
     box-sizing: inherit;
 }
 
+.site-container {
+    max-width: 1200px;
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -122,6 +126,10 @@ a {
 }
 
 #menu .current_page_item a {
+}
+
+img {
+    width: 100%;
 }
 
 /* Page */
