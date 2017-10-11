@@ -149,6 +149,32 @@ img {
         display: inline-block;
     }
 }
+
+@media (min-width:1000px) {
+    #header {
+        padding: 2rem;
+    }
+    #logo {
+        display: inline-block;
+        width: 30%;
+    }
+
+    #logo h1 a {
+        display: inline-block;
+    }
+
+    nav {
+        width: 70%;
+        float: right;
+        text-align: right;
+    }
+
+    nav li {
+        width: calc(70% / 5);
+        margin: auto;
+        display: inline-block;
+    }
+}
 /* Page */
 
 #page {
@@ -236,6 +262,7 @@ img {
     #sidebar {
         float: left;
         width: calc(100% / 3 - 1.5rem);
+        padding-top: 2rem !important;
     }
 
     #footer {
