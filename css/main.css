@@ -53,72 +53,47 @@ a {
 }
 
 #header {
-    height: 150px;
     margin: 0 auto;
-    padding: 0px 0px;
+    padding: 0;
 }
 
 /* Logo */
 
 #logo {
-    width: 300px;
-    margin: 0;
     padding: 0;
     color: #FFFFFF;
 }
 
 #logo h1 {
-    line-height: 120px;
     letter-spacing: -2px;
     font-size: 3.8em;
 }
 
 #logo h1 a {
+    display: block;
     color: #1F1F1F;
     text-shadow: 1px 1px 0px rgba(0,0,0,.2);
-}
-
-#logo p {
-    margin: 0;
-    padding: 0px 0 0 0px;
-    letter-spacing: -1px;
-    font: normal 18px Georgia, "Times New Roman", Times, serif;
-    font-style: italic;
-    color: #8E8E8E;
-}
-
-#logo p a {
-    color: #8E8E8E;
-}
-
-#logo a {
-    border: none;
-    background: none;
     text-decoration: none;
-    color: #000000;
+    text-align: center;
 }
 
 /* Menu */
 
 #menu {
-    width: 500px;
-    height: 90px;
     margin: 0 auto;
     padding: 0;
 }
 
 #menu ul {
     margin: 0;
-    padding: 20px 0px 0px 0px;
+    padding: 2% 0;
     list-style: none;
     line-height: normal;
 }
 
 #menu a {
     display: block;
-    line-height: 100px;
-    margin-right: 1px;
-    padding: 0px 20px 0px 20px;
+    padding: 2%;
     text-decoration: none;
     text-align: center;
     text-shadow: 1px 1px 0px rgba(0,0,0,.2);
@@ -149,7 +124,6 @@ a {
 /* Content */
 
 #content {
-    width: 660px;
     padding: 0px 0px 0px 0px;
 }
 
@@ -213,7 +187,6 @@ a {
 /* Sidebar */
 
 #sidebar {
-    width: 270px;
     margin: 0px;
     padding: 30px 0px 0px 0px;
 }
