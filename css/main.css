@@ -128,7 +128,6 @@ a {
 
 #page {
     margin: 0 auto;
-    padding: 30px 0;
 }
 
 /* Content */
@@ -138,13 +137,14 @@ a {
 }
 
 .post {
+    padding: 1% 6% 1% 4%;
     overflow: hidden;
-    margin-bottom: 40px;
+    margin-bottom: 5%;
     border-bottom: 1px solid #E7EBED;
 }
 
 .post .title {
-    padding: 7px 0;
+    padding: 1% 0;
     letter-spacing: -1px;
 }
 
@@ -155,8 +155,8 @@ a {
 }
 
 .post .meta {
-    margin-bottom: 30px;
-    padding: 10px 0;
+    margin-bottom: 6%;
+    padding: 2% 0;
     text-align: left;
     font-family: 'Abel', sans-serif;
     font-size: 16px;
@@ -164,13 +164,13 @@ a {
 }
 
 .post .entry {
-    padding: 0 0 40px;
+    padding: 0 0 4%;
     text-align: justify;
 }
 
 .links {
-    padding-top: 20px;
-    margin-bottom: 30px;
+    padding-top: 2%;
+    margin-bottom: 9%;
 }
 
 .more {
@@ -198,12 +198,12 @@ a {
 
 #sidebar {
     margin: 0;
-    padding: 30px 0;
+    padding: 0;
 }
 
 #sidebar ul {
     margin: 0;
-    padding: 0;
+    padding: 0 4%;
     list-style: none;
 }
 
@@ -262,18 +262,16 @@ a {
 /* Footer */
 
 #footer {
-    height: 140px;
     margin: 0 auto;
-    padding: 50px 0 15px;
+    padding: 5% 2% 4%;
     font-family: 'Abel', sans-serif;
 }
 
 #footer p {
     margin: 0;
-    padding-top: 10px;
     letter-spacing: 1px;
     line-height: normal;
-    font-size: 14px;
+    font-size: .9rem;
     text-transform: uppercase;
     text-align: center;
     color: #5E5E5E;
