@@ -132,6 +132,17 @@ img {
     width: 100%;
 }
 
+@media (min-width: 550px) {
+    nav {
+        width: 95%;
+        margin: auto;
+    }
+    nav li {
+        width: 20%;
+        margin: auto;
+        display: inline-block;
+    }
+}
 /* Page */
 
 #page {
