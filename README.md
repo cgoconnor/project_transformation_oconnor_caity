@@ -2,7 +2,10 @@
 
 ## Links
 * https://github.com/cgoconnor/project_transformation_oconnor_caity
-*
+* caitygoconnor.com/UF-project-responsive-transformation/index.html
+* https://validator.w3.org/nu/?doc=http%3A%2F%2Fcaitygoconnor.com%2FUF-project-responsive-transformation%2Findex.html
+* https://gsnedders.html5.org/outliner/process.py?url=http%3A%2F%2Fcaitygoconnor.com%2FUF-project-responsive-transformation%2Findex.html
+
 ## Resources
 I did not use any resources outside of the lectures and my notes on this Assignment
 
