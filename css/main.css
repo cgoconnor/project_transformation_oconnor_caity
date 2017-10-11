@@ -215,7 +215,7 @@ img {
 }
 
 .posted {
-    float: right;
+    display:block;
 }
 
 .post .entry {
@@ -250,6 +250,12 @@ img {
     color: #FFFFFF;
     text-align: center;
     text-decoration: none;
+}
+
+@media (min-width: 425px) {
+    .posted {
+        float: right;
+    }
 }
 
 @media (min-width: 900px) {
